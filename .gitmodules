@@ -1,3 +1,6 @@
 [submodule "server"]
 	path = server
 	url = git://github.com/Niwyll/CookItServer
+[submodule "app/android"]
+	path = app/android
+	url = https://github.com/Niwyll/CookItAndroid
